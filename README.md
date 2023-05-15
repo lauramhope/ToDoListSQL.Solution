@@ -19,6 +19,8 @@ _Detailed description of application_
 
 ## Setup/Installation Requirements
 
+***ADD SPECIFIC INSTRUCTIONS FOR APPSETTINGS.JSON - create file and what to include in it***
+
 * _Clone ProjectName.Solution“ from the repository to your desktop_
 * _Navigate to "ProjectName.Solution" directory via your local terminal command line_
 * _Navigate to the production directory "PierresBakery"_
