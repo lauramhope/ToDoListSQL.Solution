@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using ProjectName.Models;
+using ToDoList.Models;
 using System.Collections.Generic;
 
-namespace ProjectName.Controllers
+namespace ToDoList.Controllers
 {
   public class ClassNames2Controller : Controller
   {

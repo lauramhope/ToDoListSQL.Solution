@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace ProjectName.Models
+namespace ToDoList.Models
 {
   // public class Category
   // {
